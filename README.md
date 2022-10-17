@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://cdn.frankerfacez.com/emoticon/249060/4" srcset="https://cdn.frankerfacez.com/emoticon/249060/4">
+ <source media="(prefers-color-scheme: dark)" srcset="https://cdn.frankerfacez.com/emoticon/249060/4">
  <source media="(prefers-color-scheme: light)" srcset="https://cdn.frankerfacez.com/emoticon/249060/4">
  <img alt="YOUR-ALT-TEXT" src="https://cdn.frankerfacez.com/emoticon/249060/4">
 </picture>
+### Hi there
+### 🌱 I’m currently learning Kotlin
